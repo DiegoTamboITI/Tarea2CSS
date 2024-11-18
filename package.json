@@ -1,0 +1,14 @@
+{
+  "name": "Tarea 1 Estructura HTML de la Página Principal de Google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
